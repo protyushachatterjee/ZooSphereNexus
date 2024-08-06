@@ -131,6 +131,7 @@ main.addEventListener("mousemove", function(dets){
 
 //----------------------------------------BLOG PAGE-------------------------------------------------------------------------------
 
+
 var tl=gsap.timeline()
 var menu=document.querySelector("#navbar i")
 var close=document.querySelector("#nav-content i")
